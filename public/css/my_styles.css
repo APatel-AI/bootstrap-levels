@@ -1,0 +1,24 @@
+
+#button_container{
+  display: flex;
+  justify-content: center;
+}
+
+#button{
+  margin-top: 50vh;
+  padding: 20px;
+  background-color: #007dff;
+  border-radius: 10px;
+  color: white;
+
+}
+
+#button:hover{
+  background-color: #151269;
+  transition-duration:500ms;
+}
+
+
+#primary{
+  background-color:--bs-primary;
+}
